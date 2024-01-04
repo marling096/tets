@@ -1,1 +1,1 @@
-#include main
+#include <stdio.h>
